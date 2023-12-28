@@ -1,0 +1,10 @@
+com\netBanking\testCases\NetBanking.class
+com\netBanking\pageObjects\LoginPage.class
+com\netBanking\testCases\BaseClass.class
+com\netBanking\utilities\ReadConfig.class
+com\netBanking\testCases\LoginTest.class
+com\netBanking\testCases\Login001.class
+com\netBanking\utilities\XLUtils.class
+com\netBanking\utilities\Reporting.class
+com\netBanking\pageObjects\AddCustomerDetails.class
+com\netBanking\pageObjects\EditCustomerDetails.class
